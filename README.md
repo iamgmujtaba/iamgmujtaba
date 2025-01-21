@@ -24,7 +24,7 @@ Feel free to reach out if you're interested in collaboration or want to connect!
 ## Latest Blog Posts
 Auto Generated
 <!-- BLOG-POST-LIST:START -->
-- [Essential Conda Cheat Sheets for Data Scientists](https://gmujtaba.com/blog/2024/essential-conda-cheat-sheets-for-data-scientists/)
+- [Essential Conda Cheat Sheets for Data Scientists](https://gmujtaba.com/blog/2025/essential-conda-cheat-sheets-for-data-scientists/)
 - [Mastering GitHub with Handy Cheat Sheets](https://gmujtaba.com/blog/2024/mastering-github-with-handy-cheat-sheets/)
 - [User friendly LLaMa 3.2 Multimodal Web UI using Ollama](https://gmujtaba.com/blog/2024/LLaMa3.2-multimodal-web-ui-using-ollama/)
 - [AcademicJobToolkit - Streamline Your Academic Job Applications](https://gmujtaba.com/blog/2024/academic-job-search-toolkit/)
