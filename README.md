@@ -24,11 +24,11 @@ Feel free to reach out if you're interested in collaboration or want to connect!
 ## Latest Blog Posts
 Auto Generated
 <!-- BLOG-POST-LIST:START -->
-- [Professional LaTeX Template for Data Science Practicum Proposals](https://gmujtaba.com/blog/2025/data-science-practicum-proposal/)
-- [DeepSeek WebUI Installation using Ollama in Nvidia Jetson Nano](https://gmujtaba.com/blog/2025/deepseek-webui-demo-minimal-installation/)
-- [DeepSeek-R1: WebGPU-based Local Reasoning Model](https://gmujtaba.com/blog/2025/deepseek-webgpu-demo/)
-- [Essential Conda Cheat Sheets for Data Scientists](https://gmujtaba.com/blog/2025/essential-conda-cheat-sheets-for-data-scientists/)
-- [Mastering GitHub with Handy Cheat Sheets](https://gmujtaba.com/blog/2024/mastering-github-with-handy-cheat-sheets/)
+- [My Experience with Vibe Coding: Converting an Academic Website to Jekyll](https://gmujtaba.com/blog/my-experience-with-vibe-coding/)
+- [Professional LaTeX Template for Data Science Practicum Proposals](https://gmujtaba.com/blog/data-science-practicum-proposal/)
+- [DeepSeek WebUI Installation using Ollama in Nvidia Jetson Nano](https://gmujtaba.com/blog/deepseek-webui-demo-minimal-installation/)
+- [DeepSeek-R1: WebGPU-based Local Reasoning Model](https://gmujtaba.com/blog/deepseek-webgpu-demo/)
+- [Essential Conda Cheat Sheets for Data Scientists](https://gmujtaba.com/blog/essential-conda-cheat-sheets-for-data-scientists/)
 <!-- BLOG-POST-LIST:END -->
 
 
