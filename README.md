@@ -18,8 +18,8 @@ Feel free to reach out if you're interested in collaboration or want to connect!
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamgmujtaba&theme=dark" alt="GitHub Streak"/>
   <img src="https://github-profile-trophy.vercel.app/?username=iamgmujtaba&theme=darkhub&row=1" alt="trophy"/>
 </p>
-
 -->
+
 
 ## Latest Blog Posts
 Auto Generated
@@ -32,6 +32,7 @@ Auto Generated
 <!-- BLOG-POST-LIST:END -->
 
 
+<!--
 ![Snake animation](https://cdn.jsdelivr.net/gh/iamgmujtaba/iamgmujtaba@output/github-contribution-grid-snake.svg)
 
 <p align="center">
@@ -42,3 +43,4 @@ Auto Generated
     <img src="https://img.shields.io/github/followers/iamgmujtaba" alt="followers" />
   </a>
 </p>
+-->
