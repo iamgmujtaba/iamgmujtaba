@@ -24,7 +24,7 @@ Feel free to reach out if you're interested in collaboration or want to connect!
 ## Latest Blog Posts
 Auto Generated
 <!-- BLOG-POST-LIST:START -->
-- [Practicum Project Idea Coach: AI-Powered Brainstorming for Data Science Students](https://gmujtaba.com/blog/human-AI-practicum-coach/)
+- [Regis Applied Practicum Coach: AI-Powered Brainstorming for Data Science Students](https://gmujtaba.com/blog/human-AI-practicum-coach/)
 - [Personal AI Assistant to help my students and researchers](https://gmujtaba.com/blog/personal-ai-chat-launch/)
 - [My Experience with Vibe Coding: Converting an Academic Website to Jekyll](https://gmujtaba.com/blog/my-experience-with-vibe-coding/)
 - [Professional LaTeX Template for Data Science Practicum Proposals](https://gmujtaba.com/blog/data-science-practicum-proposal/)
