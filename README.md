@@ -24,6 +24,7 @@ Feel free to reach out if you're interested in collaboration or want to connect!
 ## Latest Blog Posts
 Auto Generated
 <!-- BLOG-POST-LIST:START -->
+- [RegisPortfolio: Serverless Platform to Solve the Hidden Job Search Problem for Data Science Students](https://gmujtaba.com/blog/regis-portfolio-platform/)
 - [Regis Applied Practicum Coach: AI-Powered Brainstorming for Data Science Students](https://gmujtaba.com/blog/human-AI-practicum-coach/)
 - [Personal AI Assistant to help my students and researchers](https://gmujtaba.com/blog/personal-ai-chat-launch/)
 - [My Experience with Vibe Coding: Converting an Academic Website to Jekyll](https://gmujtaba.com/blog/my-experience-with-vibe-coding/)
@@ -31,7 +32,6 @@ Auto Generated
 - [DeepSeek WebUI Installation using Ollama in Nvidia Jetson Nano](https://gmujtaba.com/blog/deepseek-webui-demo-minimal-installation/)
 - [DeepSeek-R1: WebGPU-based Local Reasoning Model](https://gmujtaba.com/blog/deepseek-webgpu-demo/)
 - [Essential Conda Cheat Sheets for Data Scientists](https://gmujtaba.com/blog/essential-conda-cheat-sheets-for-data-scientists/)
-- [Mastering GitHub with Handy Cheat Sheets](https://gmujtaba.com/blog/mastering-github-with-handy-cheat-sheets/)
 <!-- BLOG-POST-LIST:END -->
 
 
