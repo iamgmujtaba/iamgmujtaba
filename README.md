@@ -24,14 +24,14 @@ Feel free to reach out if you're interested in collaboration or want to connect!
 ## Latest Blog Posts
 Auto Generated
 <!-- BLOG-POST-LIST:START -->
-- [RegisPortfolio: Serverless Platform to Solve the Hidden Job Search Problem for Data Science Students](https://gmujtaba.com/blog/regis-portfolio-platform/)
-- [Regis Applied Practicum Coach: AI-Powered Brainstorming for Data Science Students](https://gmujtaba.com/blog/human-AI-practicum-coach/)
-- [Personal AI Assistant to help my students and researchers](https://gmujtaba.com/blog/personal-ai-chat-launch/)
-- [My Experience with Vibe Coding: Converting an Academic Website to Jekyll](https://gmujtaba.com/blog/my-experience-with-vibe-coding/)
-- [Professional LaTeX Template for Data Science Practicum Proposals](https://gmujtaba.com/blog/data-science-practicum-proposal/)
-- [DeepSeek WebUI Installation using Ollama in Nvidia Jetson Nano](https://gmujtaba.com/blog/deepseek-webui-demo-minimal-installation/)
-- [DeepSeek-R1: WebGPU-based Local Reasoning Model](https://gmujtaba.com/blog/deepseek-webgpu-demo/)
-- [Essential Conda Cheat Sheets for Data Scientists](https://gmujtaba.com/blog/essential-conda-cheat-sheets-for-data-scientists/)
+- [RegisPortfolio: Enterprise Serverless Platform Solving Data Science Graduate Employment Challenges](https://gmujtaba.com/blog/regis-portfolio-platform-serverless-student-career-solution/)
+- [Regis Applied Practicum Coach: Advanced AI-Powered Academic Guidance System for Data Science Graduate Education](https://gmujtaba.com/blog/regis-applied-practicum-coach-ai-academic-guidance/)
+- [Personal AI Assistant Platform for Educational Support](https://gmujtaba.com/blog/personal-ai-assistant-educational-support-platform/)
+- [Vibe Coding Methodology: Academic Website Conversion to Jekyll Framework](https://gmujtaba.com/blog/vibe-coding-methodology-academic-website-jekyll/)
+- [Professional LaTeX Template for Data Science Practicum Proposals](https://gmujtaba.com/blog/professional-latex-data-science-practicum-template/)
+- [DeepSeek-R1 WebUI Deployment Architecture using Ollama on NVIDIA Jetson Edge Computing Platform](https://gmujtaba.com/blog/deepseek-webui-demo-minimal-installation/)
+- [DeepSeek-R1: Advanced WebGPU-based Local Reasoning Architecture](https://gmujtaba.com/blog/deepseek-r1-webgpu-local-reasoning-architecture/)
+- [Comprehensive Conda Management Guide for Data Science Professionals](https://gmujtaba.com/blog/conda-management-guide-data-science/)
 <!-- BLOG-POST-LIST:END -->
 
 
