@@ -24,6 +24,7 @@ Feel free to reach out if you're interested in collaboration or want to connect!
 ## Latest Blog Posts
 Auto Generated
 <!-- BLOG-POST-LIST:START -->
+- [Cleaning Up the LinkedIn Feed with a Tampermonkey Userscript](https://gmujtaba.com/blog/linkedin-feed-cleanup-userscript-tampermonkey/)
 - [RegisPortfolio: Enterprise Serverless Platform Solving Data Science Graduate Employment Challenges](https://gmujtaba.com/blog/regis-portfolio-platform-serverless-student-career-solution/)
 - [Regis Applied Practicum Coach: Advanced AI-Powered Academic Guidance System for Data Science Graduate Education](https://gmujtaba.com/blog/regis-applied-practicum-coach-ai-academic-guidance/)
 - [Personal AI Assistant Platform for Educational Support](https://gmujtaba.com/blog/personal-ai-assistant-educational-support-platform/)
@@ -31,7 +32,6 @@ Auto Generated
 - [Professional LaTeX Template for Data Science Practicum Proposals](https://gmujtaba.com/blog/professional-latex-data-science-practicum-template/)
 - [DeepSeek-R1 WebUI Deployment Architecture using Ollama on NVIDIA Jetson Edge Computing Platform](https://gmujtaba.com/blog/deepseek-webui-demo-minimal-installation/)
 - [DeepSeek-R1: Advanced WebGPU-based Local Reasoning Architecture](https://gmujtaba.com/blog/deepseek-r1-webgpu-local-reasoning-architecture/)
-- [Comprehensive Conda Management Guide for Data Science Professionals](https://gmujtaba.com/blog/conda-management-guide-data-science/)
 <!-- BLOG-POST-LIST:END -->
 
 
